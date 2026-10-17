@@ -1,0 +1,6 @@
+{
+  "name": "Xness Exchange Official - WhatsApp Group Join",
+  "description": "Join the official Xness Exchange community WhatsApp group for live updates, signals, and community chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
